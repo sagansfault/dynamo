@@ -1,0 +1,6 @@
+name: Dynamo
+main: com.projecki.dynamo.Dynamo
+version: 2.0-SNAPSHOT
+api-version: 1.16
+depend:
+  - FusionPaper
